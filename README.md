@@ -1,7 +1,7 @@
 # 🌐 Domain Grabber Tool
 
 <p align="center">
-  <img src="https://your-banner-image-url.png" alt="Domain Grabber Banner" width="600">
+  <img src="https://github.com/user-attachments/assets/dfe19bab-1a86-4138-a953-ec29d5e21b5c" alt="Domain Grabber Banner" width="600">
 </p>
 
 <p align="center">
